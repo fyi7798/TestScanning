@@ -1,2 +1,3 @@
+this push to the public repo should be allowed
 test push to new repo
 testnew version of test file
